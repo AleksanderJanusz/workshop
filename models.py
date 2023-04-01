@@ -195,3 +195,5 @@ class Messages:
             except DatabaseError as error:
                 print(error)
         cnx.close()
+
+
